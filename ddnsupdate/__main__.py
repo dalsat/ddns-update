@@ -1,0 +1,3 @@
+import dnsdaemon
+
+dnsdaemon.run()
